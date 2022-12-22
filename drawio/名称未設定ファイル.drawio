@@ -1,11 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T02:40:59.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_cKs3TYSUy1g8_hJ9jqg" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T05:08:00.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="SL25tIfq7rKMi0_QfvrS" version="20.7.4" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="2442" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2694" dy="1006" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UAsPiml-7njqkJdproNT-30" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=194;tabHeight=22;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="25" width="2380" height="815" as="geometry" />
+        </mxCell>
+        <mxCell id="UAsPiml-7njqkJdproNT-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2161" y="100" width="330" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="UAsPiml-7njqkJdproNT-22" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=194;tabHeight=22;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=10;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="UAsPiml-7njqkJdproNT-21">
+          <mxGeometry width="330" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="UAsPiml-7njqkJdproNT-23" value="情報を分析する" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="UAsPiml-7njqkJdproNT-21">
+          <mxGeometry x="19" y="4.5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UAsPiml-7njqkJdproNT-29" value="Ocean" style="html=1;" vertex="1" parent="UAsPiml-7njqkJdproNT-21">
+          <mxGeometry x="19" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="6e0c8c40b5770093-72" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=194;tabHeight=22;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=10;align=center;" parent="1" vertex="1">
-          <mxGeometry x="270" y="115" width="600" height="940" as="geometry" />
+          <mxGeometry x="270" y="115" width="600" height="605" as="geometry" />
         </mxCell>
         <mxCell id="6e0c8c40b5770093-73" value="受付をする" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="327.5" y="114.5" width="130" height="20" as="geometry" />
@@ -17,7 +32,7 @@
           <mxGeometry x="320" y="280" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UAsPiml-7njqkJdproNT-5" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=194;tabHeight=22;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
-          <mxGeometry x="941" y="115" width="600" height="940" as="geometry" />
+          <mxGeometry x="941" y="115" width="600" height="605" as="geometry" />
         </mxCell>
         <mxCell id="UAsPiml-7njqkJdproNT-6" value="呼出番号ティスプレイ" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="170" width="110" height="50" as="geometry" />
@@ -53,31 +68,31 @@
           <mxGeometry x="1360" y="420" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UAsPiml-7njqkJdproNT-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1720" y="100" width="330" height="940" as="geometry" />
+          <mxGeometry x="1720" y="100" width="330" height="620" as="geometry" />
         </mxCell>
         <mxCell id="UAsPiml-7njqkJdproNT-8" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=194;tabHeight=22;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="UAsPiml-7njqkJdproNT-20">
-          <mxGeometry width="330" height="940" as="geometry" />
+          <mxGeometry width="330" height="620" as="geometry" />
         </mxCell>
         <mxCell id="UAsPiml-7njqkJdproNT-12" value="待つ" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="UAsPiml-7njqkJdproNT-20">
-          <mxGeometry x="19" y="4.5" width="130" height="20" as="geometry" />
+          <mxGeometry x="19" y="2.9680851063829787" width="130" height="13.191489361702128" as="geometry" />
         </mxCell>
         <mxCell id="UAsPiml-7njqkJdproNT-24" value="受付票" style="html=1;" vertex="1" parent="UAsPiml-7njqkJdproNT-20">
-          <mxGeometry x="20" y="60" width="110" height="50" as="geometry" />
+          <mxGeometry x="20" y="39.57446808510638" width="110" height="32.97872340425532" as="geometry" />
         </mxCell>
         <mxCell id="UAsPiml-7njqkJdproNT-25" value="待受け画面" style="html=1;" vertex="1" parent="UAsPiml-7njqkJdproNT-20">
-          <mxGeometry x="20" y="140" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="UAsPiml-7njqkJdproNT-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2161" y="100" width="330" height="940" as="geometry" />
-        </mxCell>
-        <mxCell id="UAsPiml-7njqkJdproNT-22" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=194;tabHeight=22;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="UAsPiml-7njqkJdproNT-21">
-          <mxGeometry width="330" height="940" as="geometry" />
-        </mxCell>
-        <mxCell id="UAsPiml-7njqkJdproNT-23" value="情報を分析する" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="UAsPiml-7njqkJdproNT-21">
-          <mxGeometry x="19" y="4.5" width="130" height="20" as="geometry" />
+          <mxGeometry x="20" y="92.34042553191489" width="110" height="32.97872340425532" as="geometry" />
         </mxCell>
         <mxCell id="UAsPiml-7njqkJdproNT-26" value="業種" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UAsPiml-7njqkJdproNT-27" value="受付" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="370" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UAsPiml-7njqkJdproNT-28" value="予約" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UAsPiml-7njqkJdproNT-31" value="顧客の案内をサポートする" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="220" y="25" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
