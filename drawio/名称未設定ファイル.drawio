@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T02:36:50.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="yfyfTKl-CPcurmV6EnkD" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T02:40:30.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="j7eQFUq0wC80S6Plfaj9" version="20.7.4" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="2504" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
           <mxGeometry x="980" y="580" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UAsPiml-7njqkJdproNT-19" value="助勤" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="420" width="110" height="50" as="geometry" />
+          <mxGeometry x="1360" y="420" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UAsPiml-7njqkJdproNT-20" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1720" y="100" width="330" height="940" as="geometry" />
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="UAsPiml-7njqkJdproNT-23" value="情報を分析する" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="UAsPiml-7njqkJdproNT-21">
           <mxGeometry x="19" y="4.5" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UAsPiml-7njqkJdproNT-26" value="業種" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="420" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
